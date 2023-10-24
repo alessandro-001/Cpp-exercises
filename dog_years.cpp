@@ -9,7 +9,7 @@ int main() {
   int later_years;
   int human_years;
 
-  // Get user input for dog's name and age
+  // Input for dog's name and age
   std::cout << "Enter your dog's name: ";
   std::cin >> dog_name;
   std::cout << "Enter your dog's age in dog years: ";
@@ -24,7 +24,7 @@ int main() {
   // Human years conversion formula
   human_years = early_years + later_years;
 
-  std::cout << "My name is " << dog_name << "! Ruff ruff!, I am " << human_years << " years old in human years.";
+  std::cout << "My name is " << dog_name << "!, I am " << human_years << " years old in human years.";
 
   return 0;
 }
