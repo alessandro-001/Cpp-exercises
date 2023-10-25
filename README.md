@@ -1,6 +1,6 @@
 # My C++ Fundamentals Learning Repository
 
-Welcome to my personal repository where I track my progress and exercises as I learn and practice the fundamentals of C++ programming. This repository is a living record of my C++ journey, and I update it regularly with new exercises and solutions.
+Welcome to my personal repository where I track my progress and exercises as I learn and practice the fundamentals of C++ programming. This repository is a living record of my C++ journey, and I update it regularly with new exercises and projects.
 
 ## Table of Contents
 
