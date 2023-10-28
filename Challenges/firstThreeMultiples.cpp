@@ -5,6 +5,8 @@ An int parameter named num.
 The function should return an std::vector of the first three multiples of num in ascending order.
 
 For example, first_three_multiples(7) should return a vector with 7, 14, and 21.
+
+>>> run with: g++ -std=c++11 firstThreeMultiples.cpp (to run an old version of C++11)
 */
 
 #include <iostream>
